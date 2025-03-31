@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="gn5IyH4guFrB0UWYXoPM">
-    <mxGraphModel>
+    <mxGraphModel dx="2063" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-22" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="510" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-1" value="&lt;h1&gt;&lt;b&gt;User&amp;nbsp;&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="-40" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-2" value="&lt;h1&gt;&lt;b&gt;User&amp;nbsp;&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="430" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVyTw2Kgtg968L2kZqr4-1" target="TVyTw2Kgtg968L2kZqr4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="120" as="sourcePoint" />
+            <mxPoint x="110" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TVyTw2Kgtg968L2kZqr4-4" target="TVyTw2Kgtg968L2kZqr4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVyTw2Kgtg968L2kZqr4-4" target="TVyTw2Kgtg968L2kZqr4-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="185" />
+              <mxPoint x="140" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-4" value="Log in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVyTw2Kgtg968L2kZqr4-9" target="TVyTw2Kgtg968L2kZqr4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-9" value="GitHub Application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVyTw2Kgtg968L2kZqr4-11" target="TVyTw2Kgtg968L2kZqr4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-16" value="Success" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TVyTw2Kgtg968L2kZqr4-15">
+          <mxGeometry x="0.0703" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TVyTw2Kgtg968L2kZqr4-11" target="TVyTw2Kgtg968L2kZqr4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-20" value="Fails" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TVyTw2Kgtg968L2kZqr4-19">
+          <mxGeometry x="0.0773" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-11" value="Authenticates Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-13" value="Returns All The Necessary Details" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.976;entryY=0.661;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TVyTw2Kgtg968L2kZqr4-13" target="TVyTw2Kgtg968L2kZqr4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="310" />
+              <mxPoint x="140" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVyTw2Kgtg968L2kZqr4-18" value="Show Error&lt;div&gt;Return to Home URL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
