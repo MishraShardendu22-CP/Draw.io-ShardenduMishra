@@ -1,43 +1,46 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="2jZYsr6n-XRiOU4zYmJy">
-    <mxGraphModel dx="2276" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="2006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cho-ca6ZLL90UinDN3vK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-2">
+        <mxCell id="cho-ca6ZLL90UinDN3vK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cho-ca6ZLL90UinDN3vK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-4">
+        <mxCell id="cho-ca6ZLL90UinDN3vK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cho-ca6ZLL90UinDN3vK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-6">
+        <mxCell id="cho-ca6ZLL90UinDN3vK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cho-ca6ZLL90UinDN3vK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-9">
+        <mxCell id="cho-ca6ZLL90UinDN3vK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cho-ca6ZLL90UinDN3vK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-10">
+        <mxCell id="cho-ca6ZLL90UinDN3vK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cho-ca6ZLL90UinDN3vK-1" value="Dhvani" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-40" width="120" height="60" as="geometry" />
+        <mxCell id="cho-ca6ZLL90UinDN3vK-1" value="Dhvani" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cho-ca6ZLL90UinDN3vK-2" value="Blood Bank" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="cho-ca6ZLL90UinDN3vK-2" value="Blood Bank" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cho-ca6ZLL90UinDN3vK-4" value="Stroke Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="cho-ca6ZLL90UinDN3vK-4" value="Stroke Management" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cho-ca6ZLL90UinDN3vK-6" value="Disease Detection" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="cho-ca6ZLL90UinDN3vK-6" value="Disease Detection" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cho-ca6ZLL90UinDN3vK-9" value="TB Detection and Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cho-ca6ZLL90UinDN3vK-9" value="TB Detection and Analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cho-ca6ZLL90UinDN3vK-10" value="Mobile - Health and Step Tracker&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="cho-ca6ZLL90UinDN3vK-10" value="Mobile - Health and Step Tracker&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ooRwKXd2BNiPBcHHCCqo-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Types of Users&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(P)&amp;nbsp; Patient: Can ask for Blood, Donate Blood, Can See There Reports (TB or Strokes), Can use disease Detection chat bot, can use the health tracker application on mobile&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(H) Hospitals:&amp;nbsp; Can Scan TB and Stroke Report , Can use disease detection chat bot to take ideas and help doctors, Submit reports of a patient after analysis, manage blood inventory give or take blood&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(A) Admin: can manage the entire website delete a user, delete a hospital etc everything just the maintainer of the website&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="-614" width="1165" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
