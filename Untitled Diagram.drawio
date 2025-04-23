@@ -1,9 +1,44 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="2jZYsr6n-XRiOU4zYmJy">
-    <mxGraphModel>
+    <mxGraphModel dx="2276" dy="1899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cho-ca6ZLL90UinDN3vK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cho-ca6ZLL90UinDN3vK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cho-ca6ZLL90UinDN3vK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cho-ca6ZLL90UinDN3vK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cho-ca6ZLL90UinDN3vK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cho-ca6ZLL90UinDN3vK-1" target="cho-ca6ZLL90UinDN3vK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cho-ca6ZLL90UinDN3vK-1" value="Dhvani" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cho-ca6ZLL90UinDN3vK-2" value="Blood Bank" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cho-ca6ZLL90UinDN3vK-4" value="Stroke Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cho-ca6ZLL90UinDN3vK-6" value="Disease Detection" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cho-ca6ZLL90UinDN3vK-9" value="TB Detection and Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cho-ca6ZLL90UinDN3vK-10" value="Mobile - Health and Step Tracker&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
