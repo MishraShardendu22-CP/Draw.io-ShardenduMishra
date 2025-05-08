@@ -1,10 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="27JIksZOyUg7H0xSe7Qw">
-    <mxGraphModel dx="2934" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1756" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-FAzzV84QFnnn3e9Tf60-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-FAzzV84QFnnn3e9Tf60-1" target="-FAzzV84QFnnn3e9Tf60-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-FAzzV84QFnnn3e9Tf60-1" target="-FAzzV84QFnnn3e9Tf60-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-FAzzV84QFnnn3e9Tf60-1" value="Coding Junior" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="-FAzzV84QFnnn3e9Tf60-17" value="&lt;ol&gt;&lt;li&gt;Use IDE to execute codes.&lt;/li&gt;&lt;li&gt;Visit the entire website see sections of website.&lt;/li&gt;&lt;li&gt;Use Blocks to make Code (EduBlocks) - Python.&lt;/li&gt;&lt;li&gt;Import a Python File from local device.&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-530" y="440" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-25" value="&lt;ul&gt;&lt;li&gt;For Arduino uno -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;We Will have to return the respective C program.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;For Rasberry Pi - We return the respective Python Program.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="145" y="-150" width="390" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
