@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="27JIksZOyUg7H0xSe7Qw">
-    <mxGraphModel dx="4323" dy="3233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1335" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,13 +41,8 @@
         <mxCell id="-FAzzV84QFnnn3e9Tf60-12" value="&lt;ol&gt;&lt;li&gt;Save Codes and Blocks Made as a User&amp;nbsp;&lt;/li&gt;&lt;li&gt;Save the python code made from blocks as a project.&lt;/li&gt;&lt;li&gt;Download the Code file and share it as a .py file&lt;/li&gt;&lt;li&gt;Give Feedback and Suggestions to the website owners for more features and possible improvements.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;For simple text based writing of code we can use Thonny&#39;s (or maybe Monacco editor&#39;s)&amp;nbsp;open source.&lt;/li&gt;&lt;li&gt;For Code based editing we can use Edublock&#39;s open source.&lt;/li&gt;&lt;li&gt;It all in the same application but for different purpose -&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Block Coding - (Learning) EduBlocks&lt;/li&gt;&lt;li&gt;Text Based Coding - Thonny&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="135" y="600" width="410" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-FAzzV84QFnnn3e9Tf60-17" target="-FAzzV84QFnnn3e9Tf60-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint y="500" />
-              <mxPoint y="665" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-FAzzV84QFnnn3e9Tf60-17" target="-FAzzV84QFnnn3e9Tf60-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-FAzzV84QFnnn3e9Tf60-17" value="&lt;ol&gt;&lt;li&gt;Use IDE to execute codes.&lt;/li&gt;&lt;li&gt;Visit the entire website see sections of website.&lt;/li&gt;&lt;li&gt;Use Blocks to make Code (EduBlocks) - Python.&lt;/li&gt;&lt;li&gt;Import a Python File from local device.&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-530" y="440" width="360" height="120" as="geometry" />
