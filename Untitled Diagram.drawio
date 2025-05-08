@@ -33,7 +33,7 @@
           <mxGeometry x="280" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-FAzzV84QFnnn3e9Tf60-10" value="&lt;ol&gt;&lt;li&gt;Since these are younger students it should be optional.&lt;/li&gt;&lt;li&gt;Method of Login can be via g-mail (parents/self).&lt;/li&gt;&lt;li&gt;Verification can done using an OTP on g-mail and CAPCHA&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;to prevent disposable email problem.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Basic Information would be necessary example -&amp;nbsp; &amp;nbsp; &amp;nbsp;email, name, username, password, userId.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="185" width="390" height="150" as="geometry" />
+          <mxGeometry x="670" y="185" width="390" height="150" as="geometry" />
         </mxCell>
         <mxCell id="-FAzzV84QFnnn3e9Tf60-12" value="&lt;ol&gt;&lt;li&gt;Save Codes and Blocks Made as a User&amp;nbsp;&lt;/li&gt;&lt;li&gt;Save the python code made from blocks as a project.&lt;/li&gt;&lt;li&gt;Download the Code file and share it as a .py file&lt;/li&gt;&lt;li&gt;Give Feedback and Suggestions to the website owners for more features and possible improvements.&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="135" y="600" width="410" height="130" as="geometry" />
