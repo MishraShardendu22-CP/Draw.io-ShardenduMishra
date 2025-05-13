@@ -1,57 +1,57 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.2">
   <diagram name="Page-1" id="27JIksZOyUg7H0xSe7Qw">
-    <mxGraphModel dx="1335" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1565" dy="1526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-FAzzV84QFnnn3e9Tf60-1" target="-FAzzV84QFnnn3e9Tf60-4">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-FAzzV84QFnnn3e9Tf60-1" target="-FAzzV84QFnnn3e9Tf60-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-FAzzV84QFnnn3e9Tf60-1" target="-FAzzV84QFnnn3e9Tf60-25">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-FAzzV84QFnnn3e9Tf60-1" target="-FAzzV84QFnnn3e9Tf60-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-1" value="Coding Junior" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-1" value="Coding Junior" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-FAzzV84QFnnn3e9Tf60-4" target="-FAzzV84QFnnn3e9Tf60-10">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-FAzzV84QFnnn3e9Tf60-4" target="-FAzzV84QFnnn3e9Tf60-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-FAzzV84QFnnn3e9Tf60-4" target="-FAzzV84QFnnn3e9Tf60-12">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-FAzzV84QFnnn3e9Tf60-4" target="-FAzzV84QFnnn3e9Tf60-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-14" value="Logged In User" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=27;" vertex="1" connectable="0" parent="-FAzzV84QFnnn3e9Tf60-13">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-14" value="Logged In User" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=27;" parent="-FAzzV84QFnnn3e9Tf60-13" vertex="1" connectable="0">
           <mxGeometry x="0.0005" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-FAzzV84QFnnn3e9Tf60-4" target="-FAzzV84QFnnn3e9Tf60-17">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-FAzzV84QFnnn3e9Tf60-4" target="-FAzzV84QFnnn3e9Tf60-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-21" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;All Users Logged In Or Not User&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-FAzzV84QFnnn3e9Tf60-18">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-21" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;All Users Logged In Or Not User&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-FAzzV84QFnnn3e9Tf60-18" vertex="1" connectable="0">
           <mxGeometry x="-0.2486" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-4" value="Login System" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-4" value="Login System" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="280" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-10" value="&lt;ol&gt;&lt;li&gt;Since these are younger students it should be optional.&lt;/li&gt;&lt;li&gt;Method of Login can be via g-mail (parents/self).&lt;/li&gt;&lt;li&gt;Verification can done using an OTP on g-mail and CAPCHA&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;to prevent disposable email problem.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Basic Information would be necessary example -&amp;nbsp; &amp;nbsp; &amp;nbsp;email, name, username, password, userId.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-10" value="&lt;ol&gt;&lt;li&gt;Since these are younger students it should be optional.&lt;/li&gt;&lt;li&gt;Method of Login can be via g-mail (parents/self).&lt;/li&gt;&lt;li&gt;Verification can done using an OTP on g-mail and CAPCHA&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;to prevent disposable email problem.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Basic Information would be necessary example -&amp;nbsp; &amp;nbsp; &amp;nbsp;email, name, username, password, userId.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" parent="1" vertex="1">
           <mxGeometry x="670" y="185" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-12" value="&lt;ol&gt;&lt;li&gt;Save Codes and Blocks Made as a User&amp;nbsp;&lt;/li&gt;&lt;li&gt;Save the python code made from blocks as a project.&lt;/li&gt;&lt;li&gt;Download the Code file and share it as a .py file&lt;/li&gt;&lt;li&gt;Give Feedback and Suggestions to the website owners for more features and possible improvements.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;For simple text based writing of code we can use Thonny&#39;s (or maybe Monacco editor&#39;s)&amp;nbsp;open source.&lt;/li&gt;&lt;li&gt;For Code based editing we can use Edublock&#39;s open source.&lt;/li&gt;&lt;li&gt;It all in the same application but for different purpose -&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Block Coding - (Learning) EduBlocks&lt;/li&gt;&lt;li&gt;Text Based Coding - Thonny&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-12" value="&lt;ol&gt;&lt;li&gt;Save Codes and Blocks Made as a User&amp;nbsp;&lt;/li&gt;&lt;li&gt;Save the python code made from blocks as a project.&lt;/li&gt;&lt;li&gt;Download the Code file and share it as a .py file&lt;/li&gt;&lt;li&gt;Give Feedback and Suggestions to the website owners for more features and possible improvements.&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;For simple text based writing of code we can use Thonny&#39;s (or maybe Monacco editor&#39;s)&amp;nbsp;open source.&lt;/li&gt;&lt;li&gt;For Code based editing we can use Edublock&#39;s open source.&lt;/li&gt;&lt;li&gt;It all in the same application but for different purpose -&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Block Coding - (Learning) EduBlocks&lt;/li&gt;&lt;li&gt;Text Based Coding - Thonny&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="135" y="600" width="410" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-FAzzV84QFnnn3e9Tf60-17" target="-FAzzV84QFnnn3e9Tf60-12">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-FAzzV84QFnnn3e9Tf60-17" target="-FAzzV84QFnnn3e9Tf60-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-17" value="&lt;ol&gt;&lt;li&gt;Use IDE to execute codes.&lt;/li&gt;&lt;li&gt;Visit the entire website see sections of website.&lt;/li&gt;&lt;li&gt;Use Blocks to make Code (EduBlocks) - Python.&lt;/li&gt;&lt;li&gt;Import a Python File from local device.&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-17" value="&lt;ol&gt;&lt;li&gt;Use IDE to execute codes.&lt;/li&gt;&lt;li&gt;Visit the entire website see sections of website.&lt;/li&gt;&lt;li&gt;Use Blocks to make Code (EduBlocks) - Python.&lt;/li&gt;&lt;li&gt;Import a Python File from local device.&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-530" y="440" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-25" value="&lt;ul&gt;&lt;li&gt;For Arduino uno -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;We Will have to return the respective C program.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;For Rasberry Pi - We return the respective Python Program.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-25" value="&lt;ul&gt;&lt;li&gt;For Arduino uno -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;We Will have to return the respective C program.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;For Rasberry Pi - We return the respective Python Program.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" parent="1" vertex="1">
           <mxGeometry x="145" y="-150" width="390" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-FAzzV84QFnnn3e9Tf60-28" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Additional Features&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Flowgorithm Like&amp;nbsp; Application with flowcharts based coding (very similar to block based coding - N&lt;b&gt;ot Available Open Source&lt;/b&gt;) or maybe a flow-chart making thing (&lt;a href=&quot;https://github.com/AlexeyBoiko/DgrmJS&quot;&gt;DgrmJS&lt;/a&gt;).&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;AI Agent to assist with coding. (Code checker or Improve)&lt;/li&gt;&lt;li&gt;Logged In user can use the application to the fullest, save code, give feedback use AI Features.&lt;/li&gt;&lt;li&gt;Not Logged in user can get a partial experience of the application.&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="590" y="600" width="420" height="230" as="geometry" />
+        <mxCell id="-FAzzV84QFnnn3e9Tf60-28" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Additional Features&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Flowgorithm Like&amp;nbsp; Application with flowcharts based coding (very similar to block based coding - N&lt;b&gt;ot Available Open Source&lt;/b&gt;) or maybe a flow-chart making thing (&lt;a href=&quot;https://github.com/AlexeyBoiko/DgrmJS&quot;&gt;DgrmJS&lt;/a&gt;).&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;AI Agent to assist with coding. (Code checker or Improve)&lt;/li&gt;&lt;li&gt;Logged In user can use the application to the fullest, save code, give feedback use AI Features.&lt;/li&gt;&lt;li&gt;Not Logged in user can get a partial experience of the application.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Something like fib coding thing , basically lets say to teach some one coding we can keep a already written code, make one empty line ask the person to fill in the blanks, give hints like add basically options.&lt;/li&gt;&lt;li&gt;Classroom for courses, test progress.&lt;/li&gt;&lt;li&gt;Project idea and some help to make projects for block based coding.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="600" y="535" width="420" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
